@@ -1,0 +1,6 @@
+my:
+  name : sara
+db:
+   connection: "{connectionString:'http://   ' , userName:'foo' , password:'password'}"
+   host : 127.0.0.1
+   port : 1200
